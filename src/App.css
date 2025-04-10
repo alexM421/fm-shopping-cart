@@ -387,7 +387,7 @@ body{
   color: var(--color-rose-900);
 }
 
-#order-summary{
+.order-summary{
   display: flex;
   flex-direction: column;
   background-color: var(--color-rose-50);
